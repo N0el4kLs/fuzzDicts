@@ -1,0 +1,9 @@
+cmd
+exec
+command
+ping
+query
+jump
+code
+reg
+do
