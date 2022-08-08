@@ -7,3 +7,8 @@ jump
 code
 reg
 do
+version
+rsakey
+autologin
+login
+query
