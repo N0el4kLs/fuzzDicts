@@ -5,8 +5,12 @@ Web Pentesting Fuzz 字典,一个就够了。
 
 不定期更新，使用前建议git pull一下，同步更新。
 
-
   **分享字典建议直接提交PR** 
+
+20220821：
+
+- 新增了子域名字典，中top系列是跑了大量域名后统计的结果。
+- 新增目录字典[content.txt](directoryDicts/content.txt) ,可以配合 `ffuf`进行食用.
 
 20210608:
 
