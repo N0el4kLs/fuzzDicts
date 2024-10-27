@@ -7,6 +7,10 @@ Web Pentesting Fuzz 字典,一个就够了。
 
   **分享字典建议直接提交PR** 
 
+20241027:
+
+- 新增 任意文件读取字典，内容来自于https://github.com/ev0A/ArbitraryFileReadList，并做了部分更新
+
 20240509:
 
 - 新增spring-boot 常见信息泄漏路径字典
@@ -256,7 +260,6 @@ https://github.com/TheKingOfDuck/fuzzDicts/tree/master/uploadFileExtDicts
 ## [js文件字典](https://github.com/TheKingOfDuck/fuzzDicts/tree/master/js)
 
 采集自:https://github.com/7dog7/bottleneckOsmosis
-
 
 
 
