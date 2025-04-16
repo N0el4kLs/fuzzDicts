@@ -4,6 +4,7 @@
 /api-docs
 /api.html
 /swagger-ui
+/swagger-resources
 /swagger/codes
 /api/index.html
 /api/v2/api-docs
