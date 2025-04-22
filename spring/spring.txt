@@ -1,3 +1,4 @@
+/doc.html
 /v2/api-docs
 /swagger-ui.html
 /swagger
